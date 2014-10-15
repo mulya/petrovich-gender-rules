@@ -1,0 +1,53 @@
+{
+	"lastname": [
+		{
+			"gender": "male",
+        	"test": [
+        		"ов",
+        		"ев",
+        		"ин"
+        	]
+		},
+		{
+			"gender": "female",
+        	"test": [
+        		"ва",
+        		"на"
+        	]
+		}
+	],
+	"firstname": [
+		{
+			"gender": "female",
+        	"test": [
+        		"на",
+        		"ия",
+        		"ла"
+        	]
+		},
+		{
+			"gender": "male",
+        	"test": [
+        		"ей",
+        		"др",
+        		"га",
+        		"ан",
+        		"ий"
+        	]
+		}
+	],
+	"middlename": [
+		{
+			"gender": "male",
+        	"test": [
+        		"вич"
+        	]
+		},
+		{
+			"gender": "female",
+        	"test": [
+        		"вна"
+        	]
+		}
+	]
+}
